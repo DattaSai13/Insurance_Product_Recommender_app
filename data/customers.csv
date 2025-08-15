@@ -1,0 +1,19 @@
+customer_id,age,gender,marital_status,dependents,occupation,income,health_score,risk_score,life_events,financial_goals
+2,55,Female,Single,0,Engineer,77314,0.23,0.6,Marriage,
+3,63,Female,Single,3,Student,92926,0.81,0.01,Marriage,
+4,62,Female,Married,2,Teacher,76443,0.96,0.34,,
+5,42,Male,Married,2,Student,89342,0.81,0.73,,
+6,42,Male,Married,2,Student,70407,0.7,0.05,Marriage,
+7,67,Female,Single,1,Engineer,119647,0.28,0.64,Child Birth,
+8,28,Female,Married,1,Retired,89986,0.7,0.68,,
+9,56,Male,Single,1,Doctor,119471,0.27,0.93,Marriage,
+10,61,Female,Single,1,Engineer,102694,0.4,0.07,Child Birth,
+11,21,Male,Single,1,Engineer,55000,0.7,0.5,Job Change,
+12,18,Female,Single,2,Student,55000,0.6,0.56,Job Change,
+13,18,Male,Single,0,Student,0,0.7,0.5,,
+14,25,Female,Married,1,Other,0,0.7,0.38,,"{""retirement_age"": 60, ""child_education"": false, ""house"": true, ""travel"": false, ""other_goals"": """"}"
+16,18,Male,Single,0,Engineer,0,0.68,0.47,,
+17,40,Male,Married,2,Business,50000,0.56,0.1666666666666666,,
+18,40,Male,Single,2,Other,30000,0.58,0.5,Property Purchase,"{""retirement_age"": 60, ""child_education"": false, ""house"": false, ""travel"": true, ""other_goals"": """"}"
+19,46,Male,Married,2,Teacher,30000,0.89,0.6666666666666666,Property Purchase,"{""retirement_age"": 60, ""child_education"": true, ""house"": false, ""travel"": false, ""other_goals"": """"}"
+20,50,Male,Married,2,Doctor,100000,0.85,0.6666666666666666,,

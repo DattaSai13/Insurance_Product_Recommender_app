@@ -1,0 +1,11 @@
+product_id,product_name,product_type,min_age,max_age,risk_category,premium_range,coverage_type,description,sum_assured
+1,Plan 1,Life,28.0,65.0,Medium,$429/mo,Basic,Your hour including mean yeah.,
+2,Plan 2,Life,22.0,54.0,Low,$481/mo,Premium,Seem cultural pull concern business maybe.,
+3,Plan 3,Auto,29.0,68.0,Medium,$398/mo,Basic,Always PM information reality there about need.,
+4,Plan 4,Auto,21.0,54.0,High,$352/mo,Comprehensive,Cause very section avoid tree.,
+5,Plan 5,Health,19.0,54.0,High,$181/mo,Premium,Dream social other let between.,
+6,Plan 6,Home,27.0,52.0,Medium,$295/mo,Premium,Mother think she still.,
+7,Plan 7,Home,26.0,58.0,High,$105/mo,Premium,Doctor should note effort consider difference.,
+8,Plan 8,Health,28.0,67.0,Medium,$493/mo,Premium,High science almost issue inside deal.,
+9,Plan 9,Auto,19.0,59.0,Medium,$180/mo,Basic,Order from student quickly truth.,
+10,Plan 10,Health,29.0,58.0,High,$490/mo,Comprehensive,Type third happen bar stage.,

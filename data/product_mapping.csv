@@ -1,0 +1,13 @@
+life_stage,risk_category,suitable_products
+Child,Low,"9,2,5"
+Child,Medium,"9,4,3"
+Child,High,"6,3,1"
+Young Adult,Low,"10,6,8"
+Young Adult,Medium,"1,2,6"
+Young Adult,High,"5,4,1"
+Adult,Low,"4,2,9"
+Adult,Medium,"8,2,3"
+Adult,High,"3,8,10"
+Senior,Low,"5,9,7"
+Senior,Medium,"4,9,10"
+Senior,High,"5,7,6"
