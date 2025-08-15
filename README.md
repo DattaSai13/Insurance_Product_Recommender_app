@@ -6,9 +6,8 @@ An interactive Streamlit application providing personalized insurance product re
 
 ## Features
 
-- **Role-Based Authentication:** Secure login system supporting Admin and User roles with appropriate access controls.
 - **Customer Profile Management:** Add, view, update, delete customer profiles capturing detailed demographic, financial, and risk information.
-- **Insurance Product Management:** Admins can add, edit, delete, and compare insurance products.
+- **Insurance Product Management:** Add, edit, delete, and compare insurance products.
 - **Personalized Recommendations:** Hybrid recommendation engine offering tailored insurance plans based on customer data and life events.
 - **Life Stage & Financial Goal Planning:** Analyze and plan life and financial goals with interactive tools and simulations.
 - **Rich Interactive UI:** Dynamic dashboards with search, charts, forms, and downloadable reports.
@@ -78,29 +77,6 @@ text
 
 streamlit run app.py
 
-text
-
----
-
-## Default Admin Credentials
-
-- **Username:** admin  
-- **Password:** admin@123
-
-Use these credentials to access full admin features upon first launch.
-
----
-
-## Usage Overview
-
-- **Before login:**  
-  - Only login and signup pages are accessible.
-- **User role:**  
-  - Access personalized recommendations, profile management, life goal planning, what-if analyses.
-- **Admin role:**  
-  - Full access to all pages, including customer and insurance product management and logging.
-
----
 
 ## Key Features Explained
 
